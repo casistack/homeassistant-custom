@@ -1,0 +1,6 @@
+{
+    "name": "Custom Components Collection",
+    "render_readme": true,
+    "domains": ["openai_conversation_custom", "another_component_custom"],
+    "homeassistant": "2024.1.0"
+}
